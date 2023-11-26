@@ -1,8 +1,8 @@
 [![build](https://github.com/felangel/bloc/workflows/build/badge.svg)](https://github.com/felangel/bloc/actions)
 
-# flutter_shopping_cart
+# Smart Home App
 
-Mesh Home App is one of the Smart home App from Cambodia.
+Smart Home App is one of the Smart home App from Cambodia.
 
 ## Getting Started
 
