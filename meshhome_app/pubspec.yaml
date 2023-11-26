@@ -1,0 +1,44 @@
+name: meshhome_app
+description: Mesh Home App is an App that can used to make your home easier. Remote controlling your home from outside.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # BloC  
+  bloc: ^6.0.1
+  flutter_bloc: ^6.0.1
+  equatable: ^1.2.0
+  rxdart: ^0.24.1
+  
+  #Custom Plugins  
+  # vibration: ^1.4.0
+  flutter_svg: ^0.18.0
+  flutter_vector_icons: ^0.2.1
+  intro_slider: ^2.3.1
+  weather: ^1.2.2
+  geolocator: ^5.3.2+2
+  
+  
+  #packages
+  authentication_repository:
+    path: packages/authentication_repository
+  user_repository:
+    path: packages/user_repository
+  device_repository:
+    path: packages/device_repository
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  #   - assets/icons/
+  #   - assets/meshhome/
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages  

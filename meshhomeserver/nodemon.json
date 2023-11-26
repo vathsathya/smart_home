@@ -1,0 +1,12 @@
+{
+    "env": {
+    	"MQTT_SERVER" : "localhost",
+        "MQTT_SERVER_PORT" : "1883",
+        "MONGO_DB_SERVER" : "localhost",
+        "MONGO_DB_USER" : "meshhomedb",
+        "MONGO_DB_PW" : "dade562eeb0a7edae60df2297b2ff8c3183c107c",
+        "URL": "http://localhost:8080",
+        "PORT": "8080",
+        "JWT_KEY": "secret"
+    }
+}

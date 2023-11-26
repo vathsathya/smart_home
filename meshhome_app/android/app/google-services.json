@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "457076424512",
+    "firebase_url": "https://meshhome-d0009.firebaseio.com",
+    "project_id": "meshhome-d0009",
+    "storage_bucket": "meshhome-d0009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457076424512:android:4924b2975d3e6718",
+        "android_client_info": {
+          "package_name": "com.example.meshhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457076424512-ptb44ggjt8n3ij1vdp3kiig00e35pl8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meshhome",
+            "certificate_hash": "0b7dbedd314ee43febe9a926d9eaef9445ea9a72"
+          }
+        },
+        {
+          "client_id": "457076424512-e1b903jfnlr1q94fv4ijvlqn749gs714.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8MhGWwLeBWdWfkXHO-myfxeSwKCw-jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457076424512-fei0hnc434qtquutmc8fhvilv3pdmoi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457076424512:android:e530c2435582885a9a44a5",
+        "android_client_info": {
+          "package_name": "com.harshitsapp.social_login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457076424512-e1b903jfnlr1q94fv4ijvlqn749gs714.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8MhGWwLeBWdWfkXHO-myfxeSwKCw-jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457076424512-fei0hnc434qtquutmc8fhvilv3pdmoi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457076424512:android:ab1c81b11eb2f1fc9a44a5",
+        "android_client_info": {
+          "package_name": "com.meshtechkh.meshhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457076424512-e1b903jfnlr1q94fv4ijvlqn749gs714.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8MhGWwLeBWdWfkXHO-myfxeSwKCw-jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457076424512-fei0hnc434qtquutmc8fhvilv3pdmoi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
